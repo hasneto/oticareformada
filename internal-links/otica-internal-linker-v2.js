@@ -90,7 +90,7 @@
       .otica-internal-tooltip {
         position: fixed !important;
         z-index: 999999 !important;
-        width: min(340px, calc(100vw - 24px)) !important;
+        width: min(390px, calc(100vw - 24px)) !important;
         background: #111827 !important;
         color: #f9fafb !important;
         border: 1px solid rgba(255,255,255,.14) !important;
