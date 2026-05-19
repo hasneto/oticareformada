@@ -475,25 +475,25 @@
     });
 
     span.addEventListener("click", function (ev) {
-      ev.preventDefault();
-      ev.stopPropagation();
+  ev.preventDefault();
+  ev.stopPropagation();
 
-      if (isMobileViewport()) {
-        showTooltip(this, item);
-      } else {
-        window.open(item.url, "_blank", "noopener,noreferrer");
-      }
-    });
+  if (isMobileViewport()) {
+    showTooltip(this, item);
+  } else {
+    window.open(item.url, "_blank", "noopener,noreferrer");
+  }
+});
 
-    span.addEventListener("keydown", function (ev) {
-      if (ev.key === "Enter") {
-        window.open(item.url, "_blank", "noopener,noreferrer");
-      }
+  span.addEventListener("keydown", function (ev) {
+  if (ev.key === "Enter") {
+    window.open(item.url, "_blank", "noopener,noreferrer");
+  }
 
-      if (ev.key === "Escape") {
-        hideTooltip();
-      }
-    });
+  if (ev.key === "Escape") {
+    hideTooltip();
+  }
+});
 
     return span;
   }
