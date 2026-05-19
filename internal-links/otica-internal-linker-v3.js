@@ -481,13 +481,13 @@
       if (isMobileViewport()) {
         showTooltip(this, item);
       } else {
-        window.location.href = item.url;
+        window.open(item.url, "_blank", "noopener,noreferrer");
       }
     });
 
     span.addEventListener("keydown", function (ev) {
       if (ev.key === "Enter") {
-        window.location.href = item.url;
+        window.open(item.url, "_blank", "noopener,noreferrer");
       }
 
       if (ev.key === "Escape") {
