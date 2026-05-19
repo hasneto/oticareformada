@@ -42,14 +42,15 @@
 
     var css = `
       .otica-internal-term {
-        color: #b7791f;
-        font-weight: 600;
-        text-decoration: underline;
-        text-decoration-style: dotted;
-        text-underline-offset: 3px;
-        cursor: pointer;
-        position: relative;
-      }
+  color: #b7791f;
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  cursor: pointer;
+  position: relative;
+}
 
       .otica-internal-term:hover {
         color: #8a5a14;
@@ -93,13 +94,14 @@
       }
 
       .otica-internal-tooltip-link {
-        display: inline-flex;
-        align-items: center;
-        gap: 4px;
-        color: #facc15;
-        font-weight: 700;
-        text-decoration: none;
-      }
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: #d9a441;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
 
       .otica-internal-tooltip-link:hover {
         text-decoration: underline;
