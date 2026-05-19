@@ -73,11 +73,11 @@
 
     var css = `
       .otica-internal-term {
-        color: #b7791f !important;
+        color: #a66a12 !important;
         font-weight: 700 !important;
         text-decoration-line: underline !important;
         text-decoration-style: dotted !important;
-        text-decoration-thickness: 2px !important;
+        text-decoration-thickness: 1.5px !important;
         text-underline-offset: 4px !important;
         cursor: pointer !important;
         position: relative !important;
