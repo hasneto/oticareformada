@@ -8,18 +8,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Confissão Belga",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Confissao Belga"
     ],
     url: "https://www.oticareformada.com/p/confissao-belga.html",
     titulo: "A Confissão Belga",
@@ -29,18 +18,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Confissão de Fé de Westminster",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Confissao de Fe de Westminster"
     ],
     url: "https://www.oticareformada.com/p/confissao-de-fe-de-westminster.html",
     titulo: "A Confissão de Fé de Westminster",
@@ -50,18 +28,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Bíblia Sagrada Online",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/p/biblia-sagrada-online.html",
     titulo: "Bíblia Sagrada Online",
@@ -71,18 +37,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Confissão de Fé de Guanabara",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/p/a-confissao-de-fe-de-guanabara.html",
     titulo: "Confissão de Fé de Guanabara",
@@ -92,18 +46,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Confissão de Fé Escocesa",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/p/a-confissao-de-fe-escocesa.html",
     titulo: "Confissão de Fé Escocesa",
@@ -113,18 +55,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Confissão de Fé Valdense de 1120",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/p/confissao-de-fe-valdense-de-1120.html",
     titulo: "Confissão de Fé Valdense de 1120",
@@ -134,18 +64,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Confissão de Fé Valdense de 1544",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/p/confissao-de-fe-valdense-de-1544.html",
     titulo: "Confissão de Fé Valdense de 1544",
@@ -155,18 +73,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Contribuição",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/p/contribuicao.html",
     titulo: "Contribuição",
@@ -176,18 +82,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Credo Apostólico",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/p/o-credo-apostolico.html",
     titulo: "Credo Apostólico",
@@ -197,18 +91,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Credo de Atanásio",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/p/o-credo-de-atanasio.html",
     titulo: "Credo de Atanásio",
@@ -218,18 +100,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Credo Niceno",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/p/o-credo-niceno.html",
     titulo: "Credo Niceno",
@@ -239,18 +109,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Credos da Bíblia",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/p/credos-da-biblia.html",
     titulo: "Credos da Bíblia",
@@ -260,18 +118,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Ebooks",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/p/ebooks.html",
     titulo: "Ebooks",
@@ -281,18 +127,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Em que cremos?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/p/em-que-cremos.html",
     titulo: "Em que cremos?",
@@ -302,18 +136,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O Breve Catecismo de Westminster",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Breve Catecismo de Westminster"
     ],
     url: "https://www.oticareformada.com/p/breve-catecismo-de-westminster.html",
     titulo: "O Breve Catecismo de Westminster",
@@ -323,18 +146,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O Catecismo de Heidelberg",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Catecismo de Heidelberg"
     ],
     url: "https://www.oticareformada.com/p/o-catecismo-de-heidelberg.html",
     titulo: "O Catecismo de Heidelberg",
@@ -344,18 +156,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O Catecismo Maior de Westminster",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Catecismo Maior de Westminster"
     ],
     url: "https://www.oticareformada.com/p/catecismo-maior-de-westminster.html",
     titulo: "O Catecismo Maior de Westminster",
@@ -365,18 +166,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Os Cânones de Dort (1618-1619)",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/p/os-canones-de-dort-1618-1619.html",
     titulo: "Os Cânones de Dort (1618-1619)",
@@ -386,18 +175,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Política de Privacidade",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/p/politica-de-privacidade.html",
     titulo: "Política de Privacidade",
@@ -407,18 +184,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Sitemap XML",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/p/sitemap-xml.html",
     titulo: "Sitemap XML",
@@ -428,18 +193,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Sobre",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/p/sobre.html",
     titulo: "Sobre",
@@ -449,18 +202,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "3 Coisas para saber sobre o livro de Amós",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/04/3-coisas-para-saber-sobre-o-livro-de.html",
     titulo: "3 Coisas para saber sobre o livro de Amós",
@@ -470,18 +211,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Biografias] George Whitefield (1714–1770)",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/02/biografias-george-whitefield-17141770.html",
     titulo: "[Biografias] George Whitefield (1714–1770)",
@@ -491,18 +220,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Devocional] Apegue-se a Cristo",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2022/10/devocional-apegue-se-cristo.html",
     titulo: "[Devocional] Apegue-se a Cristo",
@@ -512,18 +229,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Devocional] Contentamento Divino",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2022/08/devocional-contentamento-divino.html",
     titulo: "[Devocional] Contentamento Divino",
@@ -533,18 +238,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Devocional] Examine as Escrituras",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2022/09/examine-as-escrituras.html",
     titulo: "[Devocional] Examine as Escrituras",
@@ -554,18 +247,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Devocional] Morte e Ressurreição",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2023/01/devocional-morte-e-ressurreicao.html",
     titulo: "[Devocional] Morte e Ressurreição",
@@ -575,18 +256,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Devocional] O Jugo Suave",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2023/01/devocional-o-jugo-suave.html",
     titulo: "[Devocional] O Jugo Suave",
@@ -596,18 +265,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Devocional] Orando Sempre",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2023/09/devocional-orando-sempre.html",
     titulo: "[Devocional] Orando Sempre",
@@ -617,18 +274,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Devocional] Outros deuses",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2022/09/devocional-outros-deuses.html",
     titulo: "[Devocional] Outros deuses",
@@ -638,18 +283,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Devocional] Pensamentos sobre o céu",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2022/08/devocional-pensamentos-sobre-o-ceu.html",
     titulo: "[Devocional] Pensamentos sobre o céu",
@@ -659,18 +292,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Devocional] Quando Deus diz \"Não\"",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2023/05/devocional-quando-deus-diz-nao.html",
     titulo: "[Devocional] Quando Deus diz \"Não\"",
@@ -680,18 +301,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Devocional] Sem acordo com o mundanismo",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2023/02/devocional-sem-acordo-com-o-mundanismo.html",
     titulo: "[Devocional] Sem acordo com o mundanismo",
@@ -701,18 +310,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Devocional] Um Homem enviado de Deus",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/04/devocional-um-homem-enviado-de-deus.html",
     titulo: "[Devocional] Um Homem enviado de Deus",
@@ -722,18 +319,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Devocional] Ver Deus",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2022/08/devocional-ver-deus.html",
     titulo: "[Devocional] Ver Deus",
@@ -743,18 +328,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Exposição] A Conversão de Naamã | 2 Reis 5.1-19",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2023/02/exposicao-conversao-de-naama-2-reis-51.html",
     titulo: "[Exposição] A Conversão de Naamã | 2 Reis 5.1-19",
@@ -764,18 +337,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Exposição] A Parábola do Filho Pródigo | Lucas 15:11-32",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2025/01/exposicao-parabola-do-filho-prodigo.html",
     titulo: "[Exposição] A Parábola do Filho Pródigo | Lucas 15:11-32",
@@ -785,18 +346,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Exposição] Além do Túmulo | Lucas 24:1-12",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/03/exposicao-alem-do-tumulo-lucas-241-12.html",
     titulo: "[Exposição] Além do Túmulo | Lucas 24:1-12",
@@ -806,18 +355,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Exposição] Despertem e Lembrem-se | 2 Pedro 1.12-21",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2023/10/exposicao-despertem-e-lembrem-se-2.html",
     titulo: "[Exposição] Despertem e Lembrem-se | 2 Pedro 1.12-21",
@@ -827,18 +364,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Exposição] Hoje é o Dia da Salvação! | 2 Coríntios 6:1,2",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/01/exposicao-hoje-e-o-dia-da-salvacao-2.html",
     titulo: "[Exposição] Hoje é o Dia da Salvação! | 2 Coríntios 6:1,2",
@@ -848,18 +373,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Exposição] Resgate da Esperança pela Memória | Lamentações 3:21-26",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2025/09/exposicao-resgate-da-esperanca-pela.html",
     titulo: "[Exposição] Resgate da Esperança pela Memória | Lamentações 3:21-26",
@@ -869,18 +382,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Exposição] Uma Falsa Paz | Mateus 7.21-23",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2025/04/exposicao-uma-falsa-paz-mateus-721-23.html",
     titulo: "[Exposição] Uma Falsa Paz | Mateus 7.21-23",
@@ -890,18 +391,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Opinião] A IPB, confessionalidade e o cuidado com espantalhos",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2025/04/opiniao-ipb-confessionalidade-e-o.html",
     titulo: "[Opinião] A IPB, confessionalidade e o cuidado com espantalhos",
@@ -911,18 +400,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Opinião] Pedro, Paulo e Francisco",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2025/03/opiniao-pedro-paulo-e-francisco.html",
     titulo: "[Opinião] Pedro, Paulo e Francisco",
@@ -932,18 +409,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "[Opinião] Semana da Páscoa",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2025/03/opiniao-semana-da-pascoa.html",
     titulo: "[Opinião] Semana da Páscoa",
@@ -953,18 +418,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Atualidade da Palavra de Deus",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Atualidade da Palavra de Deus"
     ],
     url: "https://www.oticareformada.com/2020/11/a-atualidade-da-palavra-de-deus.html",
     titulo: "A Atualidade da Palavra de Deus",
@@ -974,18 +428,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Base da Perseverança dos Crentes",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Base da Perseveranca dos Crentes"
     ],
     url: "https://www.oticareformada.com/2025/06/a-base-da-perseveranca-dos-crentes.html",
     titulo: "A Base da Perseverança dos Crentes",
@@ -995,18 +438,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Bíblia profetizou o coronavírus?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Bíblia profetizou o coronavírus?"
     ],
     url: "https://www.oticareformada.com/2020/10/a-biblia-profetizou-o-coronavirus.html",
     titulo: "A Bíblia profetizou o coronavírus?",
@@ -1016,18 +448,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Circuncisão e o Batismo: Uma Relação Pactual",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Circuncisão e o Batismo: Uma Relação Pactual"
     ],
     url: "https://www.oticareformada.com/2024/08/a-circuncisao-e-o-batismo-uma-relacao.html",
     titulo: "A Circuncisão e o Batismo: Uma Relação Pactual",
@@ -1037,18 +458,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Comunhão dos Santos",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Comunhão dos Santos"
     ],
     url: "https://www.oticareformada.com/2026/04/a-comunhao-dos-santos.html",
     titulo: "A Comunhão dos Santos",
@@ -1058,18 +468,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Defesa de nossa Fé",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Defesa de nossa Fe"
     ],
     url: "https://www.oticareformada.com/2021/02/a-defesa-de-nossa-fe.html",
     titulo: "A Defesa de nossa Fé",
@@ -1079,18 +478,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Doutrina da Adoção",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Doutrina da Adoção"
     ],
     url: "https://www.oticareformada.com/2025/02/a-doutrina-da-adocao.html",
     titulo: "A Doutrina da Adoção",
@@ -1100,18 +488,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Doutrina da Expiação Limitada Prejudica o Evangelismo?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Doutrina da Expiação Limitada Prejudica o Evangelismo?"
     ],
     url: "https://www.oticareformada.com/2024/03/a-doutrina-da-expiacao-limitada.html",
     titulo: "A Doutrina da Expiação Limitada Prejudica o Evangelismo?",
@@ -1121,18 +498,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Doutrina da Perseverança dos Santos",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Doutrina da Perseveranca dos Santos"
     ],
     url: "https://www.oticareformada.com/2025/06/a-doutrina-da-perseveranca-dos-santos.html",
     titulo: "A Doutrina da Perseverança dos Santos",
@@ -1142,18 +508,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Doutrina da Punição Eterna",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Doutrina da Punicao Eterna"
     ],
     url: "https://www.oticareformada.com/2025/12/a-doutrina-da-punicao-eterna.html",
     titulo: "A Doutrina da Punição Eterna",
@@ -1163,18 +518,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Doutrina Reformada acerca da Revelação",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Doutrina Reformada acerca da Revelação"
     ],
     url: "https://www.oticareformada.com/2020/11/a-doutrina-reformada-acerca-da-revelacao.html",
     titulo: "A Doutrina Reformada acerca da Revelação",
@@ -1184,18 +528,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A esquerda e os riscos à Igreja",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "esquerda e os riscos a Igreja"
     ],
     url: "https://www.oticareformada.com/2024/12/a-esquerda-e-os-riscos-igreja.html",
     titulo: "A esquerda e os riscos à Igreja",
@@ -1205,18 +538,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Essência e a Administração dos Sacramentos",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Essência e a Administração dos Sacramentos"
     ],
     url: "https://www.oticareformada.com/2026/04/a-essencia-e-administracao-dos.html",
     titulo: "A Essência e a Administração dos Sacramentos",
@@ -1226,18 +548,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Experiência da Justificação e da Adoção",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Experiência da Justificação e da Adoção"
     ],
     url: "https://www.oticareformada.com/2020/07/a-experiencia-da-justificacao-e-da.html",
     titulo: "A Experiência da Justificação e da Adoção",
@@ -1247,18 +558,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Fé Salvadora",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Fe Salvadora"
     ],
     url: "https://www.oticareformada.com/2025/03/a-fe-salvadora.html",
     titulo: "A Fé Salvadora",
@@ -1268,18 +568,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Igreja de Cristo - Volume 1 e 2 - Um tratado sobre a natureza, poderes, ordenanças, disciplina e governo da igreja cristã",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Igreja de Cristo - Volume 1 e 2 - Um tratado sobre a natureza, poderes, ordenanças, disciplina e governo da igreja cristã"
     ],
     url: "https://www.oticareformada.com/2024/07/a-igreja-de-cristo-volume-1-e-2-um.html",
     titulo: "A Igreja de Cristo - Volume 1 e 2 - Um tratado sobre a natureza, poderes, ordenanças, disciplina e governo da igreja cristã",
@@ -1289,18 +578,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Imagem de Deus",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Imagem de Deus"
     ],
     url: "https://www.oticareformada.com/2022/07/a-imagem-de-deus.html",
     titulo: "A Imagem de Deus",
@@ -1310,18 +588,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Importância da Membresia na Igreja",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Importancia da Membresia na Igreja"
     ],
     url: "https://www.oticareformada.com/2024/12/a-importancia-da-membresia-na-igreja.html",
     titulo: "A Importância da Membresia na Igreja",
@@ -1331,18 +598,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Mensagem da Reforma Para os dias de Hoje",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Mensagem da Reforma Para os dias de Hoje"
     ],
     url: "https://www.oticareformada.com/2020/10/a-mensagem-da-reforma-para-os-dias-de.html",
     titulo: "A Mensagem da Reforma Para os dias de Hoje",
@@ -1352,18 +608,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Natureza, o Alcance e as Formas do Culto Religioso Sob o Novo Testamento",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Natureza, o Alcance e as Formas do Culto Religioso Sob o Novo Testamento"
     ],
     url: "https://www.oticareformada.com/2025/09/a-natureza-o-alcance-e-as-formas-do.html",
     titulo: "A Natureza, o Alcance e as Formas do Culto Religioso Sob o Novo Testamento",
@@ -1373,18 +618,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Nação de Israel nos Símbolos de Fé de Westminster",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Nacao de Israel nos Simbolos de Fe de Westminster"
     ],
     url: "https://www.oticareformada.com/2025/06/a-nacao-de-israel-nos-simbolos-de-fe-de.html",
     titulo: "A Nação de Israel nos Símbolos de Fé de Westminster",
@@ -1394,18 +628,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Nova Aliança em Jesus Cristo",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Nova Aliança em Jesus Cristo"
     ],
     url: "https://www.oticareformada.com/2024/07/a-nova-alianca-em-jesus-cristo.html",
     titulo: "A Nova Aliança em Jesus Cristo",
@@ -1415,18 +638,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Obra Completa de Cristo: Obediência, Sacrifício e Herança Eterna",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Obra Completa de Cristo: Obediência, Sacrifício e Herança Eterna"
     ],
     url: "https://www.oticareformada.com/2024/09/a-obra-completa-de-cristo-obediencia.html",
     titulo: "A Obra Completa de Cristo: Obediência, Sacrifício e Herança Eterna",
@@ -1436,18 +648,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Perseverança dos Santos",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Perseverança dos Santos"
     ],
     url: "https://www.oticareformada.com/2020/07/a-perseveranca-dos-santos.html",
     titulo: "A Perseverança dos Santos",
@@ -1457,18 +658,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Reforma e o \"Sola Scriptura\"",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Reforma e o \"Sola Scriptura\""
     ],
     url: "https://www.oticareformada.com/2020/10/a-reforma-e-o-sola-scriptura.html",
     titulo: "A Reforma e o \"Sola Scriptura\"",
@@ -1478,18 +668,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Relevância e o Estudo do Puritanismo",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Relevancia e o Estudo do Puritanismo"
     ],
     url: "https://www.oticareformada.com/2025/08/a-relevancia-e-o-estudo-do-puritanismo.html",
     titulo: "A Relevância e o Estudo do Puritanismo",
@@ -1499,18 +678,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Santificação do Dia do Senhor",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Santificação do Dia do Senhor"
     ],
     url: "https://www.oticareformada.com/2025/10/a-santificacao-do-dia-do-senhor.html",
     titulo: "A Santificação do Dia do Senhor",
@@ -1520,18 +688,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Santificação e a luta contra a Carne",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Santificacao e a luta contra a Carne"
     ],
     url: "https://www.oticareformada.com/2025/03/a-santificacao-e-luta-contra-carne.html",
     titulo: "A Santificação e a luta contra a Carne",
@@ -1541,18 +698,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Subscrição Confessional aos Padrões de Westminster",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Subscricao Confessional aos Padroes de Westminster"
     ],
     url: "https://www.oticareformada.com/2024/11/a-subscricao-confessional-aos-padroes.html",
     titulo: "A Subscrição Confessional aos Padrões de Westminster",
@@ -1562,18 +708,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Suficiência da Escritura",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Suficiência da Escritura"
     ],
     url: "https://www.oticareformada.com/2020/08/a-suficiencia-da-escritura.html",
     titulo: "A Suficiência da Escritura",
@@ -1583,18 +718,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A União com Cristo",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "União com Cristo"
     ],
     url: "https://www.oticareformada.com/2020/07/a-uniao-com-cristo.html",
     titulo: "A União com Cristo",
@@ -1604,18 +728,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A vida de David Brainerd",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "vida de David Brainerd"
     ],
     url: "https://www.oticareformada.com/2024/01/a-vida-de-david-brainerd.html",
     titulo: "A vida de David Brainerd",
@@ -1625,18 +738,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "A Vocação Eficaz",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Vocacao Eficaz"
     ],
     url: "https://www.oticareformada.com/2024/11/a-vocacao-eficaz.html",
     titulo: "A Vocação Eficaz",
@@ -1646,18 +748,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Adoração e o Princípio Regulador do Culto",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2025/08/adoracao-e-o-principio-regulador-do.html",
     titulo: "Adoração e o Princípio Regulador do Culto",
@@ -1667,18 +757,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Alimentando a Reforma",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2023/10/alimentando-reforma.html",
     titulo: "Alimentando a Reforma",
@@ -1688,18 +766,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Apegados à Palavra",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2020/11/apegados-palavra.html",
     titulo: "Apegados à Palavra",
@@ -1709,18 +775,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "As pessoas são basicamente boas?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2023/09/as-pessoas-sao-basicamente-boas.html",
     titulo: "As pessoas são basicamente boas?",
@@ -1730,18 +784,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "As vacinas contra a COVID-19 e a Providência Divina",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2021/02/as-vacinas-contra-covid-19-e.html",
     titulo: "As vacinas contra a COVID-19 e a Providência Divina",
@@ -1751,18 +793,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Batismo de Crianças: Algumas Considerações",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2021/02/batismo-de-criancas-algumas.html",
     titulo: "Batismo de Crianças: Algumas Considerações",
@@ -1772,18 +802,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Como ajudar seus filhos a lerem a Bíblia?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2020/10/como-ajudar-seus-filhos-lerem-biblia.html",
     titulo: "Como ajudar seus filhos a lerem a Bíblia?",
@@ -1793,18 +811,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Confessando a Deus e aos Irmãos: O Dever do Arrependimento Específico na Vida Cristã",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2025/04/confessando-deus-e-aos-irmaos-o-dever.html",
     titulo: "Confessando a Deus e aos Irmãos: O Dever do Arrependimento Específico na Vida Cristã",
@@ -1814,18 +820,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Confessionalismo e uma Igreja Florescente",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/11/confessionalismo-e-uma-igreja.html",
     titulo: "Confessionalismo e uma Igreja Florescente",
@@ -1835,18 +829,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Conselho aos reformados",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2023/08/conselho-aos-reformados.html",
     titulo: "Conselho aos reformados",
@@ -1856,18 +838,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Cristianismo versus Liberalismo Teológico",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/12/cristianismo-versus-liberalismo.html",
     titulo: "Cristianismo versus Liberalismo Teológico",
@@ -1877,18 +847,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Cristo no Antigo Testamento",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2020/07/cristo-no-antigo-testamento.html",
     titulo: "Cristo no Antigo Testamento",
@@ -1898,18 +856,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Cristo, o nosso único Mediador",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/07/cristo-o-nosso-unico-mediador.html",
     titulo: "Cristo, o nosso único Mediador",
@@ -1919,18 +865,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Devem os Pastores de Hoje se Importarem com a Reforma?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2020/10/devem-os-pastores-de-hoje-se-importarem.html",
     titulo: "Devem os Pastores de Hoje se Importarem com a Reforma?",
@@ -1940,18 +874,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Dia do Senhor: Devemos Guardar o Sábado ou Domingo?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2025/09/dia-do-senhor-devemos-guardar-o-sabado.html",
     titulo: "Dia do Senhor: Devemos Guardar o Sábado ou Domingo?",
@@ -1961,18 +883,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Dificuldades e soluções na prática da Fé Cristã",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/11/dificuldades-e-solucoes-na-pratica-da.html",
     titulo: "Dificuldades e soluções na prática da Fé Cristã",
@@ -1982,18 +892,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Disciplina na Igreja",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2025/06/disciplina-na-igreja.html",
     titulo: "Disciplina na Igreja",
@@ -2003,18 +901,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Dois Pontos Cruciais: sobre o Aborto",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2023/09/dois-pontos-cruciais-sobre-o-aborto.html",
     titulo: "Dois Pontos Cruciais: sobre o Aborto",
@@ -2024,18 +910,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Ed René Kivitz e as Hermenêuticas das Minorias",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2020/10/ed-rene-kivitz-e-as-hermeneuticas-das.html",
     titulo: "Ed René Kivitz e as Hermenêuticas das Minorias",
@@ -2045,18 +919,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Estudo sobre Predestinação",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Predestinacao"
     ],
     url: "https://www.oticareformada.com/2020/10/estudo-sobre-predestinacao.html",
     titulo: "Estudo sobre Predestinação",
@@ -2066,18 +929,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Falsos Mestres, um “Câncer” Dentro da Igreja",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2020/10/falsos-mestres-um-cancer-dentro-da.html",
     titulo: "Falsos Mestres, um “Câncer” Dentro da Igreja",
@@ -2087,18 +938,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Instrução por meio dos Catecismos",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2020/09/instrucao-por-meio-dos-catecismos.html",
     titulo: "Instrução por meio dos Catecismos",
@@ -2108,18 +947,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Interpretação Seletiva no Liberalismo Teológico",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/12/interpretacao-seletiva-no-liberalismo.html",
     titulo: "Interpretação Seletiva no Liberalismo Teológico",
@@ -2129,18 +956,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Invista mais tempo na palavra de Deus",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2022/06/invista-mais-tempo-na-palavra-de-deus.html",
     titulo: "Invista mais tempo na palavra de Deus",
@@ -2150,18 +965,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Ir a Cristo",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2020/07/ir-cristo.html",
     titulo: "Ir a Cristo",
@@ -2171,18 +974,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Jesus Cristo e Seu preparo para o Ofício de Mediador",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/08/jesus-cristo-e-seu-preparo-para-o.html",
     titulo: "Jesus Cristo e Seu preparo para o Ofício de Mediador",
@@ -2192,18 +983,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Jesus Cristo, verdadeiro Deus e verdadeiro Homem",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/08/jesus-cristo-verdadeiro-deus-e.html",
     titulo: "Jesus Cristo, verdadeiro Deus e verdadeiro Homem",
@@ -2213,18 +992,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Jesus Cristo: Missão, Humilhação e Exaltação",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/08/jesus-cristo-missao-humilhacao-e.html",
     titulo: "Jesus Cristo: Missão, Humilhação e Exaltação",
@@ -2234,18 +1001,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Lavagem Cerebral: Como as Universidades Doutrinam a Juventude",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/01/lavagem-cerebral-como-as-universidades.html",
     titulo: "Lavagem Cerebral: Como as Universidades Doutrinam a Juventude",
@@ -2255,18 +1010,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Liberalismo Teológico e a Perda de Foco",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/12/liberalismo-teologico-e-perda-de-foco.html",
     titulo: "Liberalismo Teológico e a Perda de Foco",
@@ -2276,18 +1019,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Livre-Arbítrio e Livre Agência",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/07/livre-arbitrio-e-livre-agencia.html",
     titulo: "Livre-Arbítrio e Livre Agência",
@@ -2297,18 +1028,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Negação da Doutrina no Liberalismo Teológico",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/12/negacao-da-doutrina-no-liberalismo.html",
     titulo: "Negação da Doutrina no Liberalismo Teológico",
@@ -2318,18 +1037,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Nem satisfação, nem causa, porém necessário: O Papel do Arrependimento para o Perdão",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2025/04/nem-satisfacao-nem-causa-porem.html",
     titulo: "Nem satisfação, nem causa, porém necessário: O Papel do Arrependimento para o Perdão",
@@ -2339,18 +1046,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O 'Mundo' de João 3:16 Não Significa Todos os Homens sem Exceção",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "'Mundo' de João 3:16 Não Significa Todos os Homens sem Exceção"
     ],
     url: "https://www.oticareformada.com/2024/07/o-mundo-de-joao-316-nao-significa-todos.html",
     titulo: "O 'Mundo' de João 3:16 Não Significa Todos os Homens sem Exceção",
@@ -2360,18 +1056,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O Arrependimento para a Vida",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Arrependimento para a Vida"
     ],
     url: "https://www.oticareformada.com/2025/03/o-arrependimento-para-vida.html",
     titulo: "O Arrependimento para a Vida",
@@ -2381,18 +1066,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O conceito bíblico de Trabalho",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "conceito biblico de Trabalho"
     ],
     url: "https://www.oticareformada.com/2023/05/o-conceito-biblico-de-trabalho.html",
     titulo: "O conceito bíblico de Trabalho",
@@ -2402,18 +1076,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O Credo Secular: uma Resposta Cristã a Cinco Fés Seculares Contemporâneas",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Credo Secular: uma Resposta Crista a Cinco Fes Seculares Contemporaneas"
     ],
     url: "https://www.oticareformada.com/2024/01/o-credo-secular-uma-resposta-crista.html",
     titulo: "O Credo Secular: uma Resposta Cristã a Cinco Fés Seculares Contemporâneas",
@@ -2423,18 +1086,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O Crescimento em Santificação",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Crescimento em Santificação"
     ],
     url: "https://www.oticareformada.com/2020/07/o-crescimento-em-santificacao.html",
     titulo: "O Crescimento em Santificação",
@@ -2444,18 +1096,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O Cristão e o Governo Corrupto",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Cristão e o Governo Corrupto"
     ],
     url: "https://www.oticareformada.com/2023/07/o-cristao-e-o-governo-corrupto.html",
     titulo: "O Cristão e o Governo Corrupto",
@@ -2465,18 +1106,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O Culto ao Deus Triuno e a Oração",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Culto ao Deus Triuno e a Oração"
     ],
     url: "https://www.oticareformada.com/2025/09/o-culto-ao-deus-triuno-e-oracao.html",
     titulo: "O Culto ao Deus Triuno e a Oração",
@@ -2486,18 +1116,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O Discipulado Cristão como Caminho de Renúncia e Promessa de Eternidade",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Discipulado Cristão como Caminho de Renúncia e Promessa de Eternidade"
     ],
     url: "https://www.oticareformada.com/2024/11/o-discipulado-cristao-como-caminho-de.html",
     titulo: "O Discipulado Cristão como Caminho de Renúncia e Promessa de Eternidade",
@@ -2507,18 +1126,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O Livre-Arbítrio do Homem Caído",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Livre-Arbítrio do Homem Caído"
     ],
     url: "https://www.oticareformada.com/2024/10/o-livre-arbitrio-do-homem-caido.html",
     titulo: "O Livre-Arbítrio do Homem Caído",
@@ -2528,18 +1136,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O Magistrado Civil: Instituição e Deveres do Crente",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Magistrado Civil: Instituição e Deveres do Crente"
     ],
     url: "https://www.oticareformada.com/2025/11/o-magistrado-civil-instituicao-e.html",
     titulo: "O Magistrado Civil: Instituição e Deveres do Crente",
@@ -2549,18 +1146,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O Poder do Evangelho",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Poder do Evangelho"
     ],
     url: "https://www.oticareformada.com/2020/10/o-poder-do-evangelho.html",
     titulo: "O Poder do Evangelho",
@@ -2570,18 +1156,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O Primeiro Culto Protestante no Brasil: Um Marco Histórico",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Primeiro Culto Protestante no Brasil: Um Marco Historico"
     ],
     url: "https://www.oticareformada.com/2024/03/o-primeiro-culto-protestante-no-brasil.html",
     titulo: "O Primeiro Culto Protestante no Brasil: Um Marco Histórico",
@@ -2591,18 +1166,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O Que Significam os Cinco Pontos do Calvinismo? Uma explicação simples da TULIPA",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Que Significam os Cinco Pontos do Calvinismo? Uma explicacao simples da TULIPA"
     ],
     url: "https://www.oticareformada.com/2020/11/o-que-significam-os-cinco-pontos-do.html",
     titulo: "O Que Significam os Cinco Pontos do Calvinismo? Uma explicação simples da TULIPA",
@@ -2612,18 +1176,8 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O que é a Teologia Reformada?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "que e a Teologia Reformada?",
+      "a Teologia Reformada?"
     ],
     url: "https://www.oticareformada.com/2023/10/o-que-e-teologia-reformada.html",
     titulo: "O que é a Teologia Reformada?",
@@ -2633,18 +1187,8 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O que é o Estado Intermediário?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "que é o Estado Intermediário?",
+      "o Estado Intermediário?"
     ],
     url: "https://www.oticareformada.com/2023/10/o-que-e-o-estado-intermediario.html",
     titulo: "O que é o Estado Intermediário?",
@@ -2654,18 +1198,8 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O Que é o Princípio Regulador do Culto?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "o Princípio Regulador do Culto?",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil"
+      "Que e o Principio Regulador do Culto?",
+      "o Princípio Regulador do Culto?"
     ],
     url: "https://www.oticareformada.com/2025/06/o-que-e-o-principio-regulador-do-culto.html",
     titulo: "O Que é o Princípio Regulador do Culto?",
@@ -2675,18 +1209,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O Símbolo da Sarça Ardente na História da Igreja",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Simbolo da Sarca Ardente na Historia da Igreja"
     ],
     url: "https://www.oticareformada.com/2024/03/o-simbolo-da-sarca-ardente-na-historia.html",
     titulo: "O Símbolo da Sarça Ardente na História da Igreja",
@@ -2696,18 +1219,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "O Zelo de Deus por Sua própria Glória",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "Zelo de Deus por Sua própria Glória"
     ],
     url: "https://www.oticareformada.com/2021/07/o-zelo-de-deus-por-sua-propria-gloria.html",
     titulo: "O Zelo de Deus por Sua própria Glória",
@@ -2717,18 +1229,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Onde estão os finados?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2022/11/onde-estao-os-finados.html",
     titulo: "Onde estão os finados?",
@@ -2738,18 +1238,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Os 10 Mandamentos da Esquerda Cristã",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/01/os-10-mandamentos-da-esquerda-crista.html",
     titulo: "Os 10 Mandamentos da Esquerda Cristã",
@@ -2759,18 +1247,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Os Elementos do Culto a Deus",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2025/09/os-elementos-do-culto-deus.html",
     titulo: "Os Elementos do Culto a Deus",
@@ -2780,18 +1256,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Para que filiar-se a uma igreja?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2022/07/para-que-filiar-se-uma-igreja.html",
     titulo: "Para que filiar-se a uma igreja?",
@@ -2801,18 +1265,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Piedade é o requisito para se conhecer a Deus",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2020/09/piedade-e-o-requisito-para-se-conhecer.html",
     titulo: "Piedade é o requisito para se conhecer a Deus",
@@ -2822,18 +1274,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Por que eu sou Cessacionista?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/02/por-que-eu-sou-cessacionista.html",
     titulo: "Por que eu sou Cessacionista?",
@@ -2843,18 +1283,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Por que é impossível perder a salvação?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2020/10/por-que-e-impossivel-perder-salvacao.html",
     titulo: "Por que é impossível perder a salvação?",
@@ -2864,18 +1292,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Por que ler biografias para nossos filhos?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2021/03/por-que-ler-biografias-para-nossos.html",
     titulo: "Por que ler biografias para nossos filhos?",
@@ -2885,18 +1301,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Precisamos levar os liberais a sério",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2020/09/precisamos-levar-os-liberais-serio.html",
     titulo: "Precisamos levar os liberais a sério",
@@ -2906,18 +1310,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Quais orações Deus responde?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2020/09/quais-oracoes-deus-responde.html",
     titulo: "Quais orações Deus responde?",
@@ -2927,18 +1319,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Quando todas as coisas se fizerem novas",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2020/11/quando-todas-as-coisas-se-fizerem-novas.html",
     titulo: "Quando todas as coisas se fizerem novas",
@@ -2948,18 +1328,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Quem foram os puritanos?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2021/01/quem-foram-os-puritanos.html",
     titulo: "Quem foram os puritanos?",
@@ -2969,18 +1337,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Reforma Protestante: Causas e Consequências",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2025/10/reforma-protestante-causas-e.html",
     titulo: "Reforma Protestante: Causas e Consequências",
@@ -2990,18 +1346,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Relativismo Teológico e o Cristianismo",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/12/relativismo-teologico-e-o-cristianismo.html",
     titulo: "Relativismo Teológico e o Cristianismo",
@@ -3011,18 +1355,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Rememorando a Reforma – Reflexão Bíblica",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2021/10/rememorando-reforma-reflexao-biblica.html",
     titulo: "Rememorando a Reforma – Reflexão Bíblica",
@@ -3032,18 +1364,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Sentimentalismo no Liberalismo Teológico",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/12/sentimentalismo-no-liberalismo-teologico.html",
     titulo: "Sentimentalismo no Liberalismo Teológico",
@@ -3053,18 +1373,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Sexta-feira da Paixão",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/03/sexta-feira-da-paixao.html",
     titulo: "Sexta-feira da Paixão",
@@ -3074,18 +1382,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Soberania de Deus e Responsabilidade Humana na Confissão de Fé de Westminster",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/01/soberania-de-deus-e-responsabilidade.html",
     titulo: "Soberania de Deus e Responsabilidade Humana na Confissão de Fé de Westminster",
@@ -3095,18 +1391,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Sobre a Liberdade Cristã",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "a Liberdade Cristã"
     ],
     url: "https://www.oticareformada.com/2025/07/sobre-liberdade-crista.html",
     titulo: "Sobre a Liberdade Cristã",
@@ -3116,18 +1401,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Sobre desejo e tentação - Existe a possibilidade de haver cristãos gays?",
     aliases: [
-      "desejo e tentação - Existe a possibilidade de haver cristãos gays?",
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil"
+      "desejo e tentação - Existe a possibilidade de haver cristãos gays?"
     ],
     url: "https://www.oticareformada.com/2022/07/sobre-desejo-e-tentacao-existe.html",
     titulo: "Sobre desejo e tentação - Existe a possibilidade de haver cristãos gays?",
@@ -3137,18 +1411,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Sobre os Juramentos: Um Ato de Culto e a Garantia da Verdade Divina",
     aliases: [
-      "os Juramentos: Um Ato de Culto e a Garantia da Verdade Divina",
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil"
+      "os Juramentos: Um Ato de Culto e a Garantia da Verdade Divina"
     ],
     url: "https://www.oticareformada.com/2025/10/sobre-os-juramentos-um-ato-de-culto-e.html",
     titulo: "Sobre os Juramentos: Um Ato de Culto e a Garantia da Verdade Divina",
@@ -3158,18 +1421,7 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Sobre os Sacramentos",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
+      "os Sacramentos"
     ],
     url: "https://www.oticareformada.com/2026/04/sobre-os-sacramentos.html",
     titulo: "Sobre os Sacramentos",
@@ -3179,18 +1431,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Sou eleito então posso pecar à vontade?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/07/sou-eleito-entao-posso-pecar-vontade.html",
     titulo: "Sou eleito então posso pecar à vontade?",
@@ -3200,18 +1440,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "Transformação Social e o Liberalismo Teológico",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2024/12/transformacao-social-e-o-liberalismo.html",
     titulo: "Transformação Social e o Liberalismo Teológico",
@@ -3221,18 +1449,6 @@ window.OTICA_INTERNAL_LINKS = [
   {
     termo: "É pecado querer morrer?",
     aliases: [
-      "Biblia King James 1611 com Estudo Holman",
-      "Primeiro Culto Protestante no Brasil",
-      "Bíblia de Estudo Herança Reformada",
-      "Jesus Cristo no Antigo Testamento",
-      "Cristologia no Antigo Testamento",
-      "Confiar nas Promessas de Cristo",
-      "Confissão de Fé de Westminster",
-      "calendario liturgico catolico",
-      "Simbolos de Fe de Westminster",
-      "crucificação de Jesus Cristo",
-      "História da Igreja no Brasil",
-      "Principio Regulador do Culto"
     ],
     url: "https://www.oticareformada.com/2022/03/e-pecado-querer-morrer.html",
     titulo: "É pecado querer morrer?",
