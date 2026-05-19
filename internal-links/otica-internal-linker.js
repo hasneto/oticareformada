@@ -38,116 +38,126 @@
   }
 
   function injectStyles() {
-    if (document.getElementById("otica-internal-linker-style")) return;
+  var oldStyle = document.getElementById("otica-internal-linker-style");
+  if (oldStyle) {
+    oldStyle.remove();
+  }
 
-    var css = `
-      .otica-internal-term {
-  color: #b7791f;
-  font-weight: 700;
-  text-decoration: underline;
-  text-decoration-style: dotted;
-  text-decoration-thickness: 2px;
-  text-underline-offset: 4px;
-  cursor: pointer;
-  position: relative;
-}
+  var css = `
+    .otica-internal-term {
+      color: #b7791f !important;
+      font-weight: 700 !important;
+      text-decoration-line: underline !important;
+      text-decoration-style: dotted !important;
+      text-decoration-thickness: 2px !important;
+      text-underline-offset: 4px !important;
+      cursor: pointer !important;
+      position: relative !important;
+    }
 
-      .otica-internal-term:hover {
-        color: #8a5a14;
-      }
+    .otica-internal-term:hover {
+      color: #8a5a14 !important;
+    }
 
+    .otica-internal-tooltip {
+      position: fixed !important;
+      z-index: 999999 !important;
+      width: min(340px, calc(100vw - 24px)) !important;
+      background: #111827 !important;
+      color: #f9fafb !important;
+      border: 1px solid rgba(255,255,255,.14) !important;
+      border-radius: 14px !important;
+      box-shadow: 0 18px 45px rgba(0,0,0,.35) !important;
+      overflow: hidden !important;
+      font-family: inherit !important;
+      display: none;
+    }
+
+    .otica-internal-tooltip.is-visible {
+      display: block !important;
+    }
+
+    .otica-internal-tooltip-header {
+      padding: 12px 14px !important;
+      font-weight: 700 !important;
+      font-size: 15px !important;
+      line-height: 1.35 !important;
+      background: rgba(255,255,255,.08) !important;
+      border-bottom: 1px solid rgba(255,255,255,.12) !important;
+      color: #f9fafb !important;
+    }
+
+    .otica-internal-tooltip-body {
+      padding: 13px 14px 14px !important;
+      font-size: 14px !important;
+      line-height: 1.55 !important;
+      color: #f9fafb !important;
+    }
+
+    .otica-internal-tooltip-body p {
+      margin: 0 0 12px !important;
+      color: #f9fafb !important;
+    }
+
+    .otica-internal-tooltip-link,
+    .otica-internal-tooltip-link:visited,
+    .otica-internal-tooltip-link:hover,
+    .otica-internal-tooltip-link:active {
+      display: inline-flex !important;
+      align-items: center !important;
+      gap: 4px !important;
+      color: #d9a441 !important;
+      font-weight: 700 !important;
+      text-decoration-line: underline !important;
+      text-decoration-thickness: 1px !important;
+      text-underline-offset: 3px !important;
+    }
+
+    .otica-internal-tooltip-link:hover {
+      color: #f5c96b !important;
+    }
+
+    .otica-internal-tooltip-close {
+      display: none;
+      position: absolute !important;
+      top: 8px !important;
+      right: 10px !important;
+      width: 28px !important;
+      height: 28px !important;
+      border: 0 !important;
+      border-radius: 999px !important;
+      background: rgba(255,255,255,.12) !important;
+      color: #fff !important;
+      font-size: 18px !important;
+      line-height: 28px !important;
+      cursor: pointer !important;
+    }
+
+    @media (max-width: 700px) {
       .otica-internal-tooltip {
-        position: fixed;
-        z-index: 999999;
-        width: min(340px, calc(100vw - 24px));
-        background: #111827;
-        color: #f9fafb;
-        border: 1px solid rgba(255,255,255,.14);
-        border-radius: 14px;
-        box-shadow: 0 18px 45px rgba(0,0,0,.35);
-        overflow: hidden;
-        font-family: inherit;
-        display: none;
-      }
-
-      .otica-internal-tooltip.is-visible {
-        display: block;
-      }
-
-      .otica-internal-tooltip-header {
-        padding: 12px 14px;
-        font-weight: 700;
-        font-size: 15px;
-        line-height: 1.35;
-        background: rgba(255,255,255,.08);
-        border-bottom: 1px solid rgba(255,255,255,.12);
-      }
-
-      .otica-internal-tooltip-body {
-        padding: 13px 14px 14px;
-        font-size: 14px;
-        line-height: 1.55;
-      }
-
-      .otica-internal-tooltip-body p {
-        margin: 0 0 12px;
-      }
-
-      .otica-internal-tooltip-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
-  color: #d9a441;
-  font-weight: 700;
-  text-decoration: underline;
-  text-underline-offset: 3px;
-}
-
-      .otica-internal-tooltip-link:hover {
-        text-decoration: underline;
+        left: 12px !important;
+        right: 12px !important;
+        bottom: 12px !important;
+        top: auto !important;
+        width: auto !important;
+        max-height: 70vh !important;
       }
 
       .otica-internal-tooltip-close {
-        display: none;
-        position: absolute;
-        top: 8px;
-        right: 10px;
-        width: 28px;
-        height: 28px;
-        border: 0;
-        border-radius: 999px;
-        background: rgba(255,255,255,.12);
-        color: #fff;
-        font-size: 18px;
-        line-height: 28px;
-        cursor: pointer;
+        display: block !important;
       }
 
-      @media (max-width: 700px) {
-        .otica-internal-tooltip {
-          left: 12px !important;
-          right: 12px !important;
-          bottom: 12px !important;
-          top: auto !important;
-          width: auto;
-          max-height: 70vh;
-        }
-
-        .otica-internal-tooltip-close {
-          display: block;
-        }
-
-        .otica-internal-tooltip-header {
-          padding-right: 48px;
-        }
+      .otica-internal-tooltip-header {
+        padding-right: 48px !important;
       }
-    `;
+    }
+  `;
 
-    var style = document.createElement("style");
-    style.id = "otica-internal-linker-style";
-    style.textContent = css;
-    document.head.appendChild(style);
-  }
+  var style = document.createElement("style");
+  style.id = "otica-internal-linker-style";
+  style.textContent = css;
+  document.head.appendChild(style);
+}
 
   function createTooltip() {
     var tooltip = document.createElement("div");
