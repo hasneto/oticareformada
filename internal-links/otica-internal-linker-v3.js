@@ -474,12 +474,6 @@
       showTooltip(this, item);
     });
 
-    span.addEventListener("mouseleave", function () {
-      if (!isMobileViewport()) {
-        hideTooltip();
-      }
-    });
-
     span.addEventListener("click", function (ev) {
       ev.preventDefault();
       ev.stopPropagation();
