@@ -112,7 +112,7 @@ window.OTICA_INTERNAL_LINKS = [
       "cânones de dordt",
       "canones de dordt"
     ],
-    url: "https://www.oticareformada.com/p/canones-de-dort.html",
+    url: "https://www.oticareformada.com/p/os-canones-de-dort-1618-1619.html",
     titulo: "Cânones de Dort",
     descricao: "Leia os Cânones de Dort organizados por capítulos da doutrina, com texto adaptado para leitura online."
   },
