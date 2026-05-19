@@ -230,8 +230,8 @@
     header.textContent = item.titulo || item.termo || "Leia mais";
 
     body.innerHTML =
-      "<p>" + escapeHtml(item.descricao || "") + "</p>" +
-      "<a class='otica-internal-tooltip-link' href='" + escapeAttr(item.url) + "'>Ler mais →</a>";
+  "<p>" + escapeHtml(item.descricao || "") + "</p>" +
+  "<a class='otica-internal-tooltip-link' href='" + escapeAttr(item.url) + "' target='_blank' rel='noopener noreferrer'>Ler mais →</a>";
 
     tooltipEl.classList.add("is-visible");
 
