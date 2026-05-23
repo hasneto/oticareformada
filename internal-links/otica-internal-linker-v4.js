@@ -347,14 +347,31 @@
 
       var allTerms = [item.termo].concat(item.aliases || []);
 
-      allTerms.forEach(function (term) {
-        var cleanTerm = String(term || "").trim();
+  allTerms.forEach(function (term) {
+  var cleanTerm = String(term || "").trim();
+  var normalizedTerm = normalizeText(cleanTerm);
 
-        if (cleanTerm.length < 3) {
-          return;
-        }
+  var forbiddenSingleTerms = {
+    "sobre": true,
+    "contato": true,
+    "inicio": true,
+    "home": true,
+    "arquivo": true,
+    "categoria": true,
+    "categorias": true,
+    "marcador": true,
+    "marcadores": true
+  };
 
-        var normalized = normalizeText(cleanTerm);
+  if (cleanTerm.length < 4) {
+    return;
+  }
+
+  if (forbiddenSingleTerms[normalizedTerm]) {
+    return;
+  }
+
+        var normalized = normalizedTerm;
         var key = normalized + "|" + item.url;
 
         if (seen[key]) {
