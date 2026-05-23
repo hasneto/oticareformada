@@ -351,17 +351,25 @@
   var cleanTerm = String(term || "").trim();
   var normalizedTerm = normalizeText(cleanTerm);
 
-  var forbiddenSingleTerms = {
-    "sobre": true,
-    "contato": true,
-    "inicio": true,
-    "home": true,
-    "arquivo": true,
-    "categoria": true,
-    "categorias": true,
-    "marcador": true,
-    "marcadores": true
-  };
+  var forbiddenTerms = {
+  "sobre": true,
+  "contato": true,
+  "inicio": true,
+  "home": true,
+  "arquivo": true,
+  "categoria": true,
+  "categorias": true,
+  "marcador": true,
+  "marcadores": true,
+  "comentario": true,
+  "comentarios": true,
+  "contribuicao": true,
+  "contribuição": true,
+  "doacao": true,
+  "doação": true,
+  "pix": true,
+  "apoio": true
+};
 
   if (cleanTerm.length < 4) {
     return;
