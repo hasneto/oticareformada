@@ -191,15 +191,6 @@ window.OTICA_INTERNAL_LINKS = [
   },
 
   {
-    termo: "Sobre",
-    aliases: [
-    ],
-    url: "https://www.oticareformada.com/p/sobre.html",
-    titulo: "Sobre",
-    descricao: "As posições doutrinárias presentes no conteúdo deste site representam um posicionamento calvinista, reformado e confessional. Eu subscrevo os Símbolos"
-  },
-
-  {
     termo: "3 Coisas para saber sobre o livro de Amós",
     aliases: [
     ],
