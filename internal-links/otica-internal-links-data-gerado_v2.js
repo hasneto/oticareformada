@@ -71,15 +71,6 @@ window.OTICA_INTERNAL_LINKS = [
   },
 
   {
-    termo: "Contribuição",
-    aliases: [
-    ],
-    url: "https://www.oticareformada.com/p/contribuicao.html",
-    titulo: "Contribuição",
-    descricao: "Se você tem sido edificado de alguma forma, considere a possibilidade de participar ativamente do sustento desta iniciativa."
-  },
-
-  {
     termo: "Credo Apostólico",
     aliases: [
     ],
